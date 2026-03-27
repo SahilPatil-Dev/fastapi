@@ -1,4 +1,4 @@
-# Day 1 — FastAPI Basics + Query Handling
+# FastAPI Basics + Query Handling
 
 ## What I built:
 - API to read patient data from JSON

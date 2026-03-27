@@ -1,4 +1,4 @@
-# Day 2 — Pydantic Deep Dive
+# Pydantic Deep Dive
 
 ## Concepts:
 - BaseModel

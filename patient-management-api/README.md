@@ -15,6 +15,7 @@ This project allows you to manage patient records with automatic BMI calculation
   * Normal
   * Overweight
   * Obese
+  
 * ✅ Input validation using **Pydantic**
 * ✅ Lightweight **JSON-based storage**
 * ✅ Clean and structured API design
